@@ -1,0 +1,24 @@
+
+.lx-width {
+    max-width:var(--width);
+    margin:auto;
+    padding-left:var(--gap);
+    padding-right:var(--gap);
+    box-sizing:content-box;
+}
+/* remove padding on nested width-containers */
+.lx-width .lx-width {
+    padding-left:0;
+    padding-right:0;
+}
+
+
+/*
+tailwind: .w-full
+bootstrap: .w-100
+codyhouse: .width-100%
+bulma: .is-fullwidth
+*/
+.lx-width-full {
+    width:100%;
+}
