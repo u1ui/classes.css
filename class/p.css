@@ -1,11 +1,11 @@
-/* rename to lx-pad? */
-.lx-p {
+/* rename to u1-pad? */
+.u1-p {
     padding:var(--gap);
 }
 
-.lx-p :first-child {
+.u1-p :first-child {
     margin-top:0;
 }
-.lx-p :last-child {
+.u1-p :last-child {
     margin-bottom:0;
 }

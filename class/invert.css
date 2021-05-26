@@ -4,7 +4,7 @@ html {
   --color-dark-orig:var(--color-dark);
   --color-light-dark:var(--color-light);
 }
-.lx-invert {
+.u1-invert {
   --color-bg:var(--color-text-orig);
   --color-text:var(--color-bg-orig);
 

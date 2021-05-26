@@ -1,5 +1,5 @@
 
-.lx-width {
+.u1-width {
     max-width:var(--width);
     margin:auto;
     padding-left:var(--gap);
@@ -7,7 +7,7 @@
     box-sizing:content-box;
 }
 /* remove padding on nested width-containers */
-.lx-width .lx-width {
+.u1-width .u1-width {
     padding-left:0;
     padding-right:0;
 }
@@ -19,6 +19,6 @@ bootstrap: .w-100
 codyhouse: .width-100%
 bulma: .is-fullwidth
 */
-.lx-width-full {
+.u1-width-full {
     width:100%;
 }

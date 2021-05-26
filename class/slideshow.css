@@ -1,4 +1,4 @@
-.lx-slideshow {
+.u1-slideshow {
 	/* needed */
 	display:flex;
 	overflow:auto;
@@ -8,7 +8,7 @@
 	/* ok? */
 	align-items: stretch;
 }
-.lx-slideshow > * {
+.u1-slideshow > * {
 	/* needed */
 	width:100%;
 	flex-shrink:0;

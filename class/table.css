@@ -4,16 +4,16 @@ No, css is representation
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Grid_Role
 */
 
-.lx-table {
+.u1-table {
     display:table;
 }
-.lx-table > * {
+.u1-table > * {
     display:table-row-group;
 }
-.lx-table > * > * {
+.u1-table > * > * {
     display:table-row;
 }
-.lx-table > * > * > * {
+.u1-table > * > * > * {
     display:table-cell;
     padding:calc(var(--gap) / 2); /* gap by default ?*/
 }
@@ -22,7 +22,7 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Grid_Role
 
 
 /*
-.lx-table textarea {
+.u1-table textarea {
     /* display:block; makes chrome first-textarea-line as baseline; makes but removes this from firefox *
     vertical-align: baseline;
 }
