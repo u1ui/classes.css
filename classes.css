@@ -2,13 +2,10 @@
 @import './class/invert.css';
 @import './class/width.css';
 @import './class/slideshow.css';
-@import './class/scrollable.css';
-@import './class/flex.css';
-@import './class/table.css';
+/*@import './class/flex.css';*/
 @import './class/badge.css';
 @import './class/card.css';
 @import './class/inp.css';
-
 
 
 /* namespace-less classes (well known / defacto standards) */
