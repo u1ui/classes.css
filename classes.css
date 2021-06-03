@@ -35,3 +35,37 @@
     xwhite-space: nowrap; /* why */
     xmargin-left:-1px; /* can not reproduce  */
 }
+
+
+
+/*
+
+.u1-grow {
+    flex-grow:1;
+}
+.u1-flex-col {
+    display:flex;
+    flex-direction:column;
+}
+
+
+
+https://meowni.ca/posts/monica-dot-css/
+
+.horizontal {display: flex; flex-direction: row; justify-content: space-between}
+.vertical {display: flex; flex-direction: column}
+.center {justify-content: center; align-items: center}
+.flex {flex: 1}
+
+*/
+
+
+/*
+tailwind: .w-full
+bootstrap: .w-100
+codyhouse: .width-100%
+bulma: .is-fullwidth
+.u1-width-full {
+    width:100%;
+}
+*/
