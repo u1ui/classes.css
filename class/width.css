@@ -5,7 +5,7 @@
     box-sizing:content-box;
     padding-left:var(--gap);
     padding-right:var(--gap);
-    padding-left:calc(var(--gap) + env(safe-area-inset-left));
+    padding-left:calc(var(--gap) + env(safe-area-inset-left)); /* todo: test */
     padding-right:calc(var(--gap) + env(safe-area-inset-right));
 }
 /* remove padding on nested width-containers */
