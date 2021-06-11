@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang=en>
 <head>
   <meta charset="UTF-8">
   <title>Level.css TEST</title>
-  <meta name="viewport" content="width=device-width">
+  <meta name="viewport" content="width=device-width, viewport-fit=cover">
 
   <script src="./test.js" type=module></script>
 
@@ -30,13 +30,18 @@
       background-color:#eee;
     }
   </style>
+  <script>
+  addEventListener('click',function(){
+    document.documentElement.requestFullscreen()
+  })
+  </script>
 
 </head>
 
 <body>
 
 
-  <section id=u1-width>
+  <section id=u1-width style="padding:0">
     <h1>.u1-width</h1>
     <div class=-viewport>
       simulated viewport
