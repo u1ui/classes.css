@@ -2,7 +2,6 @@
 this is some kind of beta
 
 
-## Demos
+## Demo
 https://raw.githack.com/u1ui/classes.css/main/tests/classes.html  
-https://raw.githack.com/u1ui/classes.css/main/tests/experiments.html  
 
