@@ -2,7 +2,6 @@
 .u1-p {
     padding:var(--gap);
 }
-
 .u1-p :first-child {
     margin-top:0;
 }

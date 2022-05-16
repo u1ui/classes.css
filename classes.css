@@ -1,10 +1,8 @@
-@import './class/card.css';
 @import './class/invert.css';
 @import './class/p.css';
 
 
 /* namespace-less classes (well known / defacto standards) */
-
 /*
 ## naming
 .sr-only:
@@ -26,10 +24,12 @@
     height: 1px;
     overflow: hidden;
     overflow: clip; /* ch90 ff29 */
-    xcontent: url(); /* new idea, ok? screenreaders will read filename */
-    xcontain:strict; /* performance? */
-    xwhite-space: nowrap; /* why */
-    xmargin-left:-1px; /* can not reproduce  */
+    /*
+    content: url(); /* new idea, ok? screenreaders will read filename * /
+    contain:strict; /* performance? * /
+    white-space: nowrap; /* why * /
+    margin-left:-1px; /* can not reproduce  * /
+    */
 }
 
 
