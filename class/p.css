@@ -1,6 +1,6 @@
 /* rename to u1-pad? */
 .u1-p {
-    padding:var(--gap);
+    padding:1rem;
 }
 .u1-p :first-child {
     margin-top:0;
