@@ -1,11 +1,17 @@
-# css-classes
-this is some kind of beta
-
+# classes.css
+deprecated
 
 ## Demo
+
 https://raw.githack.com/u1ui/classes.css/main/tests/test.html  
 
 ## Inspiration
 
 https://smolcss.dev/
 https://picocss.com/
+
+## About
+
+- MIT License, Copyright (c) 2022 <u1> (like all repositories in this organization) <br>
+- Suggestions, ideas, finding bugs and making pull requests make us very happy. ♥
+
