@@ -32,6 +32,16 @@
     */
 }
 
+/* idea: bigger hit-areas */
+.u1-hitBig {
+    position:relative;
+}
+.u1-hitBig::after {
+    content:'';
+    position:absolute;
+    inset: calc( var(--hit-padding, .5rem) * -1 );
+    background:#f001;
+}
 
 
 /*
