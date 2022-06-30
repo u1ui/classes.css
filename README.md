@@ -3,7 +3,7 @@ deprecated
 
 ## Demos
 
-[test.html](https://raw.githack.com/u1ui/classes.css/main/tests/test.html)  
+[test.html](http://gcdn.li/u1ui/classes.css@main/tests/test.html)  
 
 ## Inspiration
 
